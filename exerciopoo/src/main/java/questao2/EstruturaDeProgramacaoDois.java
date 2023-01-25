@@ -1,4 +1,4 @@
-package org.example.questao2;
+package questao2;
 
 import java.util.Scanner;
 
